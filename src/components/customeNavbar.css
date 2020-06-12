@@ -1,0 +1,12 @@
+.navbar-brand {
+    margin-left: 6.5rem;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    margin-right: 20px;
+}
